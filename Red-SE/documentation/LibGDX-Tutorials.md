@@ -1,0 +1,1 @@
+https://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
